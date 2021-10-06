@@ -1,4 +1,4 @@
-# ESP32-BLUETOOTH-car
+# ESP32-BLUETOOTH-car with MIT app inventor
 ## simple robotic car with ESP32 classic BLE board
 hello! I made this project on learning basis\
 After doing robotic car projects with arduino I tried with **esp32 board** which is cool!! and it's works fine with me.\
